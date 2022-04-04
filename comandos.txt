@@ -1,0 +1,10 @@
+cd {RUTA}
+conda update -n base -c defaults conda
+conda create -n proyecto
+conda activate proyecto
+conda install jupyter
+conda install numpy
+conda install scikit-learn 
+conda install seaborn
+conda install pandas
+jupyter notebook  
