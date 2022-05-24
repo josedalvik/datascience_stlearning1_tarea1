@@ -7,4 +7,5 @@ conda install numpy
 conda install scikit-learn 
 conda install seaborn
 conda install pandas
-jupyter notebook  
+conda install -c conda-forge tensorflow
+	
