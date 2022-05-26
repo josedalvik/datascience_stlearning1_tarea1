@@ -8,4 +8,8 @@ conda install scikit-learn
 conda install seaborn
 conda install pandas
 conda install -c conda-forge tensorflow
+jupyter notebook 
+
+cd logs
+tensorboard --logdir ./
 	
